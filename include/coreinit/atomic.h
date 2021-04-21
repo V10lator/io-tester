@@ -1,0 +1,6 @@
+#ifndef NUSSPLI_TEST_CORE_ATOMIC_H
+#define NUSSPLI_TEST_CORE_ATOMIC_H
+
+#define OSCompareAndSwapAtomic	__sync_bool_compare_and_swap
+
+#endif
