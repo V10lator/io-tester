@@ -1,1 +1,1 @@
-NUSspli/src/ioThread.c
+../NUSspli/src/ioThread.c
